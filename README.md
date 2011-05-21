@@ -1,14 +1,14 @@
 sql-game-of-life
 ================
 
-Dirty hack for running Game of Life in PostgreSQL. I take no responsibility for pain caused when reading the code, it was the absolutely first that crossed my mind. Efficient? No. Beautiful? No. Does it work? Yes!
+Quick and dirty implementation of Game of Life in SQL (requires PostgreSQL as-is, but can most likely be adapted easily to other systems). I make no claims that this is a very good implementation, it was simply the first that I got working and I stopped at that. Efficient? No. Beautiful? No. Does it work? Yes!
 
-License: public domain
+License: public domain.
 
 Install
 -------
 
-You need PostgreSQL installed. Then run install.sh
+You need PostgreSQL installed. Then run `install.sh`.
 
 Usage
 -----
@@ -30,6 +30,6 @@ Or even better:
 Why?
 ----
 
-It's Saturday. I hurt my back. I can't do what I want to do.
+It's Saturday. I hurt my back. I can't do what I'd rather be doing. :)
 
 -- Björn Edström <be@bjrn.se> 2011.
