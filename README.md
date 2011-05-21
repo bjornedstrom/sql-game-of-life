@@ -17,15 +17,15 @@ First seed the database by
 
 `$ psql gameoflife < $SEEDFILE`
 
-Where `$SEEDFILE` is the seed for the game. You can use the provided `seed-f-pentamino.sql` or `seed-glider.sql` to get started.
+Where `$SEEDFILE` is the seed for the game. You can use the provided `seed-f-pentamino.sql` or `seed-glider.sql` to get started. Check out the SQL to write your own.
 
 Then just:
 
-`$ ./game-of-life.sh'
+`$ ./game-of-life.sh`
 
 Or even better:
 
-`$ watch -n 1 ./game-of-life.sh'
+`$ watch -n 1 ./game-of-life.sh`
 
 Why?
 ----
