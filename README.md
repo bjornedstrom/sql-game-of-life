@@ -25,11 +25,11 @@ Then just:
 
 Or even better:
 
-`$ watch -n 1 ./game-of-life.sh`
+`$ watch -n 0.1 ./game-of-life.sh`
 
 Why?
 ----
 
-It's Saturday. I hurt my back. I can do what I want to do.
+It's Saturday. I hurt my back. I can't do what I want to do.
 
 -- Björn Edström <be@bjrn.se> 2011.
